@@ -1,9 +1,0 @@
-<svg width="400" height="80" viewBox="0 0 400 80" xmlns="http://www.w3.org/2000/svg">
-  <g fill="none" stroke="#FF6600" stroke-width="3">
-    <polygon points="10,25 25,15 40,25 25,35" />
-    <polygon points="25,15 40,25 40,45 25,35" />
-    <polygon points="10,25 25,35 25,55 10,45" />
-    <polygon points="10,25 10,45 25,35" />
-  </g>
-  <text x="50" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#000000">Institute of Digital Risk</text>
-</svg>
